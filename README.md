@@ -1,1 +1,57 @@
-# AndroidArchitectureRoadmap
+# Android Architecture Roadmap
+It’s a proposed roadmap for the Android Architecture or Android Project.
+
+# Content
+- Good practices.
+    - Clean code.
+    - SOLID.
+- Architecture patterns.
+    - MVC
+    - MVVM
+    - MVI
+- Architecture components.
+    - Android jetpack.
+    - External libraries.
+- Design patterns.
+    - Creational
+        - Singleton
+        - Builder
+        - Dependency Injection (library)
+    - Structural.
+        - Adapter
+        - Composite
+    - Behavioral
+        - Observer
+    - Patron repository
+- Architecture of system.
+    - Clean
+        - Domian layer
+        - Data layer
+            - Patron repository
+        - Presentation layer
+- Quality Assurance.
+    - Test
+        - Unit Test.
+        - Integration Test.
+        - UI Test.
+    - Linters
+        - Android Lint
+        - Checkstyle
+        - PMD
+        - FindBugs
+    - Coverage
+        - SonarQube.
+        - JaCoCo.
+        - Herramienta de cobertura de Android Studio.
+- Multi-Module Apps.
+    - Modularization.
+        - App modules.
+        - Library modules.
+        - Kotlin and Java modules.
+        - Dynamic feature modules.
+    - Package structure.
+        - Package by type.
+        - Package by feature.
+        - Package by layer.
+        - Package by module.
+        - Package by feature on the exterior and layer on the interior. (for medium apps to more)
