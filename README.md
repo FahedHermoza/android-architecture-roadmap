@@ -73,8 +73,8 @@ This contains all topics to help you find what you are looking for quickly. I ho
 
 ## ✍️ Articles
 The architecture android roadmap is based on a talk given for GDG Cusco, the resources used are shared below:
-- **[Android Architecture Roadmap] (https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
-- **[Real-World Android by Tutorials] (https://www.kodeco.com/books/real-world-android-by-tutorials)**
+- **[Talk: Android Architecture Roadmap](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
+- **[Book: Real-World Android by Tutorials](https://www.kodeco.com/books/real-world-android-by-tutorials)**
 
 ## 💡 Inspiration
 
