@@ -1,4 +1,4 @@
-<h1 align="center">Android architecture roadmap 🔒</h1>
+<h1 align="center">Android Architecture Roadmap 🏢</h1>
 Welcome to Android Architecture Roadmap
 
 The main purpose of this roadmap is to help anyone who to get knowledge about architecture android.
@@ -70,6 +70,11 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * Features Modules 
         - Package by feature on the exterior, and package layer on the interior
     * Commons Modules
+
+## ✍️ Articles
+The architecture android roadmap is based on a talk given for GDG Cusco, the resources used are shared below:
+- **[Android Architecture Roadmap] (https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
+- **[Real-World Android by Tutorials] (https://www.kodeco.com/books/real-world-android-by-tutorials)**
 
 ## 💡 Inspiration
 
