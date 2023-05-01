@@ -12,39 +12,39 @@ This contains all topics to help you find what you are looking for quickly. I ho
 
 ## Contents
 - 👍 Good practices
-    * Clean code
-    * SOLID
-* 🏛️ Architecture pattern.
+    * [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    * [SOLID](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+* 🏛️ Architecture pattern
     * MVC
     * MVVM
     * MVI
 * 🧱 Architecture components
-    * Android jetpack
+    * [Android jetpack](https://developer.android.com/jetpack?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEQjRcV1OAX1ExRKSe-zvmtUOawU2oJrLYXxa3crR473Si6zssnfkihoCjeAQAvD_BwE&gclsrc=aw.ds)
     * External libraries
 * 🧩 Design patterns
-    * Creational
+    * [Creational](https://refactoring.guru/es/design-patterns/creational-patterns)
         - Singleton
         - Builder
-        - Dependency Injection (library)
-    * Structural
+        - [Dependency Injection](https://developer.android.com/training/dependency-injection?hl=es-419) (library)
+    * [Structural](https://refactoring.guru/es/design-patterns/structural-patterns)
         - Adapter
         - Composite
-    * Behavioral
+    * [Behavioral](https://refactoring.guru/es/design-patterns/behavioral-patterns)
         - Observer
     * Patron repository
 * 🏢 Architecture of system
-    * Clean Arquitecture
+    * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
         - Domian layer
         - Data layer
             - Patron repository
         - Presentation layer
-* ✅ Quality Assurance.
-    * Test
+* ✅ Quality Assurance
+    * [Test](https://developer.android.com/training/testing)
         - Unit Test
         - Integration Test
         - UI Test
     * Linters
-        - Android Lint
+        - [Android Lint](https://developer.android.com/studio/write/lint?hl=es-419)
         - Checkstyle
         - PMD
         - FindBugs
@@ -53,7 +53,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - JaCoCo
         - Herramienta de cobertura de Android Studio
 * 🚀 Multi-Module Apps
-    * ️Modularization.
+    * [️Modularization](https://developer.android.com/topic/modularization?hl=es-419)
         - App modules
         - Library modules
         - Kotlin and Java modules
