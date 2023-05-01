@@ -1,7 +1,11 @@
 <h1 align="center">Android Architecture Roadmap 🏢</h1>
 Welcome to Android Architecture Roadmap
 
-The main purpose of this roadmap is to help anyone who to get knowledge about architecture android.
+The main goal of this roadmap is to help anyone who gains knowledge of Android architecture.
+This roadmap was an idea after giving a talk to the GDG Cusco community about Android Architecture 
+in the real world, resources used are shared below:
+- **[Talk: Android Architecture in the real world](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
+
 This contains all topics to help you find what you are looking for quickly. I hope I can help you.
 
 ## 🗺 Roadmap
@@ -12,10 +16,10 @@ This contains all topics to help you find what you are looking for quickly. I ho
 
 ## Contents
 - 👍 Good practices
-    * [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-    * [SOLID](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
-* 🏛️ Architecture pattern
-    * MVC
+    * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    * [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+* 🏛️ Architecture pattern (presentation pattern or UI pattern)
+    * [️MVP](https://github.com/antoniolg/androidmvp)
     * MVVM
     * MVI
 * 🧱 Architecture components
@@ -25,45 +29,45 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * [Creational](https://refactoring.guru/es/design-patterns/creational-patterns)
         - Singleton
         - Builder
-        - [Dependency Injection](https://developer.android.com/training/dependency-injection?hl=es-419) (library)
     * [Structural](https://refactoring.guru/es/design-patterns/structural-patterns)
         - Adapter
         - Composite
     * [Behavioral](https://refactoring.guru/es/design-patterns/behavioral-patterns)
         - Observer
-    * Patron repository
 * 🏢 Architecture of system
     * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
         - Domian layer
         - Data layer
             - Patron repository
         - Presentation layer
+        - Handle dependencies
+            - [Dependency Injection](https://developer.android.com/training/dependency-injection)
 * ✅ Quality Assurance
-    * [Test](https://developer.android.com/training/testing)
-        - Unit Test
-        - Integration Test
-        - UI Test
-    * Linters
-        - [Android Lint](https://developer.android.com/studio/write/lint?hl=es-419)
+    * [Testing](https://developer.android.com/training/testing)
+        - [Unit Test](https://developer.android.com/training/testing/local-tests)
+        - [Integration Test](https://developer.android.com/training/testing/fundamentals/test-doubles)
+        - [UI Test](https://developer.android.com/training/testing/instrumented-tests/ui-tests)
+    * [️Linters](https://en.wikipedia.org/wiki/Lint_(software))
+        - [Android Lint](https://developer.android.com/studio/write/lint)
         - Checkstyle
         - PMD
         - FindBugs
-    * Coverage
+    * [️Code Coverage](https://en.wikipedia.org/wiki/Code_coverage)
         - SonarQube
         - JaCoCo
         - Herramienta de cobertura de Android Studio
 * 🚀 Multi-Module Apps
-    * [️Modularization](https://developer.android.com/topic/modularization?hl=es-419)
+    * [️Modularization](https://developer.android.com/topic/modularization)
         - App modules
         - Library modules
         - Kotlin and Java modules
         - Dynamic feature modules
-    * Package structure
+    * [Package structure](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - Package by type
         - Package by feature
         - Package by layer
         - Package by module
-        - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium o more big)
+        - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium o big)
 
 *  🤖 Recommended for multi-module app on android
     * App Module   
@@ -72,13 +76,19 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * Commons Modules
 
 ## ✍️ Articles
-The architecture android roadmap is based on a talk given for GDG Cusco, the resources used are shared below:
-- **[Talk: Android Architecture Roadmap](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
+The talk "Android Architecture
+in the real world" is based on the following resources:
 - **[Book: Real-World Android by Tutorials](https://www.kodeco.com/books/real-world-android-by-tutorials)**
+- **[Book: Android Test-Driven Development by Tutorials](https://www.kodeco.com/books/android-test-driven-development-by-tutorials)**
+- **[Book: Advanced Android App Architecture](https://www.kodeco.com/books/advanced-android-app-architecture)**
 
 ## 💡 Inspiration
 
 This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap/blob/main/README.md). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
+
+## Find this project useful? :heart:
+
+Support it by joining __[stargazers](https://github.com/FahedHermoza/android-architecture-roadmap/stargazers)__ for this repository. :star:
 
 License
 -------
