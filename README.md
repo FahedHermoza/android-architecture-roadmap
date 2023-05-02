@@ -68,12 +68,11 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - Package by layer
         - Package by module
         - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium o big)
-
-*  🤖 Recommended for multi-module app on android
-    * App Module   
-    * Features Modules 
-        - Package by feature on the exterior, and package layer on the interior
-    * Commons Modules
+    *  🤖 Modularization + Package Structure
+        - App Module   
+        - Features Modules 
+            - Package by feature on the exterior, and package layer on the interior
+        - Commons Modules
 
 ## ✍️ Articles
 The talk "Android Architecture
