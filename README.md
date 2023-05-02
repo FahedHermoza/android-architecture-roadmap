@@ -1,7 +1,11 @@
 <h1 align="center">Android Architecture Roadmap 🏢</h1>
-Welcome to Android Architecture Roadmap
 
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/for-sharks.svg)](https://forthebadge.com)
+<div align="center">
+        <img width="40%" src="screenshots/badge.jpg" alt="About screen" title="About screen"</img>
+        <img height="0" width="5px">
+</div>
+
+Welcome to Android Architecture Roadmap
 
 The main goal of this roadmap is to help anyone who gains knowledge of Android architecture.
 This roadmap was an idea after giving a talk to the GDG Cusco community about Android Architecture 
