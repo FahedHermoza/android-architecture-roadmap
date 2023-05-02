@@ -1,4 +1,6 @@
 <h1 align="center">Android Architecture Roadmap 🏢</h1>
+<h1 align="center">[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/for-sharks.svg)](https://forthebadge.com)</h1>
+<h1 align="center">[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)</h1>
 Welcome to Android Architecture Roadmap
 
 The main goal of this roadmap is to help anyone who gains knowledge of Android architecture.
@@ -67,14 +69,14 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - Package by feature
         - Package by layer
         - Package by module
-        - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium o big)
+        - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium or big)
     *  🤖 Modularization + Package Structure
         - App Module   
         - Features Modules 
             - Package by feature on the exterior, and package layer on the interior
         - Commons Modules
 
-## ✍️ Articles
+## ✍️ Resources
 The talk "Android Architecture
 in the real world" is based on the following resources:
 - **[Book: Real-World Android by Tutorials](https://www.kodeco.com/books/real-world-android-by-tutorials)**
@@ -82,12 +84,15 @@ in the real world" is based on the following resources:
 - **[Book: Advanced Android App Architecture](https://www.kodeco.com/books/advanced-android-app-architecture)**
 
 ## 💡 Inspiration
-
 This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap/blob/main/README.md). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
+
+## 🚦 Wrap Up
+If you have an idea to improve the map, feel free to discuss it in the issues.
 
 ## Find this project useful? :heart:
 
-Support it by joining __[stargazers](https://github.com/FahedHermoza/android-architecture-roadmap/stargazers)__ for this repository. :star:
+Support it by joining __[stargazers](https://github.com/FahedHermoza/android-architecture-roadmap/stargazers)__ for this repository. :star: <br>
+And __[follow](https://www.linkedin.com/in/fahedhermoza/)__ me for my next creations! 🤩
 
 License
 -------
