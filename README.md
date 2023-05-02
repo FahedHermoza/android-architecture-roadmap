@@ -1,7 +1,7 @@
 <h1 align="center">Android Architecture Roadmap 🏢</h1>
 
 <div align="center">
-        <img width="40%" src="screenshots/badge.svg" alt="About screen" title="About screen"</img>
+        <img width="60%" src="screenshots/badge.svg" alt="About screen" title="About screen"</img>
         <img height="0" width="5px">
 </div>
 
