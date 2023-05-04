@@ -41,7 +41,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * [Behavioral](https://refactoring.guru/es/design-patterns/behavioral-patterns)
         - Observer
 * 🏢 Architecture of system
-    * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+    * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)  (layered architecture)
         - Domian layer
         - Data layer
             - Patron repository
