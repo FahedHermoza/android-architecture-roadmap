@@ -7,7 +7,7 @@
 
 Welcome to Android Architecture Roadmap
 
-The main goal of this roadmap is to help anyone who gains knowledge of Android architecture.
+The main goal of this roadmap is to help someone who gains knowledge of Android architecture.
 This roadmap was an idea after giving a talk to the GDG Cusco community about Android Architecture 
 in the real world, resources used are shared below:
 - **[Talk: Android Architecture in the real world](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
@@ -23,7 +23,9 @@ This contains all topics to help you find what you are looking for quickly. I ho
 ## Contents
 - 👍 Good practices
     * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    * [“KISS,” “DRY”, “YAGNI](https://medium.com/@dioxmio/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)
     * [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+    * [Avoid STUPID Principles](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 * 🏛️ Architecture pattern (presentation pattern or UI pattern)
     * [️MVP](https://github.com/antoniolg/androidmvp)
     * MVVM
@@ -48,6 +50,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - Presentation layer
         - Handle dependencies
             - [Dependency Injection](https://developer.android.com/training/dependency-injection)
+            - [Service locator pattern](https://developer.android.com/training/dependency-injection?hl=es-419#di-alternatives)
 * ✅ Quality Assurance
     * [Testing](https://developer.android.com/training/testing)
         - [Unit Test](https://developer.android.com/training/testing/local-tests)
