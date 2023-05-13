@@ -23,7 +23,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
 ## Contents
 - 👍 Good practices
     * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-    * [“KISS,” “DRY”, “YAGNI](https://medium.com/@dioxmio/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)
+    * [KISS, DRY, YAGNI](https://medium.com/@dioxmio/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)
     * [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
     * [Avoid STUPID Principles](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
 * 🏛️ Architecture pattern (presentation pattern or UI pattern)
