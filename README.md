@@ -21,11 +21,13 @@ This contains all topics to help you find what you are looking for quickly. I ho
 </div>
 
 ## Contents
-- 👍 Good practices
-    * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 👍 Good and bad practices
+    * [Clean Code](https://medium.com/storyblocks-engineering/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
     * [KISS, DRY, YAGNI](https://medium.com/@dioxmio/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)
     * [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
     * [Avoid STUPID Principles](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/)
+    * [Naming Test](https://www.codurance.com/publications/2014/12/13/naming-test-classes-and-methods)
+    * [Code Smells](https://refactoring.guru/es/refactoring/smells)
 * 🏛️ Architecture pattern (presentation pattern or UI pattern)
     * [️MVP](https://github.com/antoniolg/androidmvp)
     * MVVM
@@ -35,22 +37,22 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * External libraries
 * 🧩 Design patterns
     * [Creational](https://refactoring.guru/es/design-patterns/creational-patterns)
-        - Singleton
-        - Builder
+        - [Singleton](https://refactoring.guru/es/design-patterns/singleton)
+        - [Builder](https://refactoring.guru/es/design-patterns/builder)
     * [Structural](https://refactoring.guru/es/design-patterns/structural-patterns)
-        - Adapter
-        - Composite
+        - [Adapter](https://refactoring.guru/es/design-patterns/adapter)
+        - [Composite](https://refactoring.guru/es/design-patterns/composite)
     * [Behavioral](https://refactoring.guru/es/design-patterns/behavioral-patterns)
-        - Observer
+        - [Observer](https://refactoring.guru/es/design-patterns/observer)
 * 🏢 Architecture of system
     * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)  (layered architecture)
         - Domian layer
         - Data layer
-            - Patron repository
+            - [Patron repository](https://svatasimara.medium.com/domain-driven-design-part-5-repository-d5ad32b2e06f)
         - Presentation layer
         - Handle dependencies
-            - [Dependency Injection](https://developer.android.com/training/dependency-injection)
-            - [Service locator pattern](https://developer.android.com/training/dependency-injection?hl=es-419#di-alternatives)
+            - [Dependency Injection](https://medium.com/free-code-camp/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
+            - [Service locator pattern](https://medium.com/inloopx/service-locator-pattern-in-android-af3830924c69)
 * ✅ Quality Assurance
     * [Testing](https://developer.android.com/training/testing)
         - [Unit Test](https://developer.android.com/training/testing/local-tests)
@@ -58,13 +60,13 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [UI Test](https://developer.android.com/training/testing/instrumented-tests/ui-tests)
     * [️Linters](https://en.wikipedia.org/wiki/Lint_(software))
         - [Android Lint](https://developer.android.com/studio/write/lint)
-        - Checkstyle
-        - PMD
-        - FindBugs
+        - [Checkstyle](https://github.com/checkstyle/checkstyle)
+        - [PMD](https://pmd.github.io/)
+        - [SpotBugs (FindBugs)](https://spotbugs.github.io/)
     * [️Code Coverage](https://en.wikipedia.org/wiki/Code_coverage)
-        - SonarQube
-        - JaCoCo
-        - Herramienta de cobertura de Android Studio
+        - [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+        - [JaCoCo](https://www.baeldung.com/jacoco)
+        - [Android Test Orchestrator](https://medium.com/stepstone-tech/android-test-orchestrator-unmasked-83b8879928fa)
 * 🚀 Multi-Module Apps
     * [️Modularization](https://developer.android.com/topic/modularization)
         - App modules
@@ -72,11 +74,11 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - Kotlin and Java modules
         - Dynamic feature modules
     * [Package structure](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
-        - Package by type
-        - Package by feature
-        - Package by layer
-        - Package by module
-        - Package by feature on the exterior, and package layer on the interior. (recomended for apps medium or big)
+        - [Package by type](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
+        - [Package by feature](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
+        - [Package by layer](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
+        - [Package by module](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
+        - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior. (recomended for apps medium or big)
     *  🤖 Modularization + Package Structure
         - App Module   
         - Features Modules 
@@ -90,11 +92,19 @@ in the real world" is based on the following resources:
 - **[Book: Android Test-Driven Development by Tutorials](https://www.kodeco.com/books/android-test-driven-development-by-tutorials)**
 - **[Book: Advanced Android App Architecture](https://www.kodeco.com/books/advanced-android-app-architecture)**
 
+Some books recommended:
+- **[Book: Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)**
+- **[Book: Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_bxgy_vft_none_img_sccl_1/144-6523082-0304818?pd_rd_w=6YdbC&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=DGTME3D60N6MRQ80YW5V&pd_rd_wg=AztZL&pd_rd_r=6c5279f8-4a86-4be6-ba96-394d5808140b&pd_rd_i=0134494164&psc=1)**
+- **[Book: Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/book)**
+
 ## 💡 Inspiration
-This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap/blob/main/README.md). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
+This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
 
 ## 🚦 Wrap Up
 If you have an idea to improve the map, feel free to discuss it in the issues.
+
+## ⚠️  Disclamer
+This information is focused on semi-senior and senior engineers. Use your own judgement and use with caution.
 
 ## Find this project useful? :heart:
 
