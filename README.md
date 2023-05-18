@@ -16,7 +16,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
 
 ## 🗺 Roadmap
 <div align="center">
-        <img width="100%" src="screenshots/AndroidArquitectureRoadmap.jpg" alt="About screen" title="About screen"</img>
+        <img width="100%" src="screenshots/AndroidArquitectureRoadmap-General.png" alt="About screen" title="About screen"</img>
         <img height="0" width="16px">
 </div>
 
@@ -29,8 +29,8 @@ This contains all topics to help you find what you are looking for quickly. I ho
     * [Naming Test](https://www.codurance.com/publications/2014/12/13/naming-test-classes-and-methods)
     * [Code Smells](https://refactoring.guru/es/refactoring/smells)
 * 🏛️ Architecture pattern (presentation pattern or UI pattern)
-    * [️MVP](https://github.com/antoniolg/androidmvp)
-    * MVVM
+    * [️MVP](http://antonioleiva.com/mvp-android/)
+    * [MVVM](https://proandroiddev.com/building-a-beautiful-disney-mvvm-android-application-2-jetpack-architectures-6b13e062cacf)
     * MVI
 * 🧱 Architecture components
     * [Android jetpack](https://developer.android.com/jetpack?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEQjRcV1OAX1ExRKSe-zvmtUOawU2oJrLYXxa3crR473Si6zssnfkihoCjeAQAvD_BwE&gclsrc=aw.ds)
@@ -44,12 +44,12 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [Composite](https://refactoring.guru/es/design-patterns/composite)
     * [Behavioral](https://refactoring.guru/es/design-patterns/behavioral-patterns)
         - [Observer](https://refactoring.guru/es/design-patterns/observer)
-* 🏢 Architecture of system
-    * [Clean Arquitecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)  (layered architecture)
-        - Domian layer
-        - Data layer
+* 🏢 Architecture Style
+    * [Clean Arquitecture](https://herbertograca.com/2017/09/28/clean-architecture-standing-on-the-shoulders-of-giants/)
+        - [Domian layer](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
+        - [Data layer](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
             - [Patron repository](https://svatasimara.medium.com/domain-driven-design-part-5-repository-d5ad32b2e06f)
-        - Presentation layer
+        - [Presentation layer](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
         - Handle dependencies
             - [Dependency Injection](https://medium.com/free-code-camp/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
             - [Service locator pattern](https://medium.com/inloopx/service-locator-pattern-in-android-af3830924c69)
@@ -69,33 +69,41 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [Android Test Orchestrator](https://medium.com/stepstone-tech/android-test-orchestrator-unmasked-83b8879928fa)
 * 🚀 Multi-Module Apps
     * [️Modularization](https://developer.android.com/topic/modularization)
-        - App modules
-        - Library modules
-        - Kotlin and Java modules
-        - Dynamic feature modules
+        - [App modules](https://developer.android.com/topic/modularization/patterns#prefer-kotlin)
+        - [Library modules](https://developer.android.com/topic/modularization/patterns#prefer-kotlin)
+        - [Kotlin and Java modules](https://developer.android.com/topic/modularization/patterns#prefer-kotlin)
+        - [Dynamic feature modules](https://medium.com/mindorks/dynamic-feature-modules-the-future-4bee124c0f1)
     * [Package structure](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by type](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by feature](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by layer](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by module](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
-        - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior. (recomended for apps medium or big)
-    *  🤖 Modularization + Package Structure
-        - App Module   
-        - Features Modules 
-            - Package by feature on the exterior, and package layer on the interior
-        - Commons Modules
+        - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior. (recomended for medium or big apps)
+
+## ✍️ Sample
+There are many ways to design the architecture for your application, depending on the problem you are solving. A recommended example (by Real world Android) for medium or big apps that you could follow is the following:
+- 🤖  Modularization + Package Structure
+    * App Module   
+    * Features Modules 
+        * Package by feature on the exterior, and package layer on the interior
+    * Commons Modules
+    
+<div align="center">
+        <img width="100%" src="screenshots/AndroidArquitectureRoadmap.jpg" alt="About screen" title="About screen"</img>
+        <img height="0" width="16px">
+</div>
 
 ## ✍️ Resources
-The talk "Android Architecture
-in the real world" is based on the following resources:
+The talk "Android Architecture in the real world" is based on the following resources:
 - **[Book: Real-World Android by Tutorials](https://www.kodeco.com/books/real-world-android-by-tutorials)**
 - **[Book: Android Test-Driven Development by Tutorials](https://www.kodeco.com/books/android-test-driven-development-by-tutorials)**
 - **[Book: Advanced Android App Architecture](https://www.kodeco.com/books/advanced-android-app-architecture)**
 
-Some books recommended:
+Some books and post recommended:
 - **[Book: Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)**
 - **[Book: Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_bxgy_vft_none_img_sccl_1/144-6523082-0304818?pd_rd_w=6YdbC&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=DGTME3D60N6MRQ80YW5V&pd_rd_wg=AztZL&pd_rd_r=6c5279f8-4a86-4be6-ba96-394d5808140b&pd_rd_i=0134494164&psc=1)**
 - **[Book: Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns/book)**
+- **[Post: The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)**
 
 ## 💡 Inspiration
 This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
