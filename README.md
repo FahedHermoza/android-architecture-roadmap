@@ -78,10 +78,10 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [Package by feature](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by layer](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
         - [Package by module](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa)
-        - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior. (recomended for medium or big apps)
+        - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior.
 
 ## ✍️ Sample
-There are many ways to design the architecture for your application, depending on the problem you are solving. A recommended example (by Real world Android) for medium or big apps that you could follow is the following:
+There are many ways to design the architecture for your application, depending on the problem you are solving. A recommended example for medium or big apps that you could follow is the following:
 - 🤖  Modularization + Package Structure
     * App Module   
     * Features Modules 
