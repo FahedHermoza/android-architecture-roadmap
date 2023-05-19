@@ -31,7 +31,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
 * 🏛️ Architecture pattern (presentation pattern or UI pattern)
     * [️MVP](http://antonioleiva.com/mvp-android/)
     * [MVVM](https://proandroiddev.com/building-a-beautiful-disney-mvvm-android-application-2-jetpack-architectures-6b13e062cacf)
-    * MVI
+    * [MVI](https://medium.com/swlh/mvi-architecture-with-android-fcde123e3c4a)
 * 🧱 Architecture components
     * [Android jetpack](https://developer.android.com/jetpack?gclid=CjwKCAjwo7iiBhAEEiwAsIxQEQjRcV1OAX1ExRKSe-zvmtUOawU2oJrLYXxa3crR473Si6zssnfkihoCjeAQAvD_BwE&gclsrc=aw.ds)
     * External libraries
@@ -52,7 +52,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [Presentation layer](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/)
         - Handle dependencies
             - [Dependency Injection](https://medium.com/free-code-camp/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
-            - [Service locator pattern](https://medium.com/inloopx/service-locator-pattern-in-android-af3830924c69)
+            - [Service locator pattern](https://medium.com/@ivorobioff/dependency-injection-vs-service-locator-2bb8484c2e20)
 * ✅ Quality Assurance
     * [Testing](https://developer.android.com/training/testing)
         - [Unit Test](https://developer.android.com/training/testing/local-tests)
@@ -93,7 +93,7 @@ There are many ways to design the architecture for your application, depending o
         <img height="0" width="16px">
 </div>
 
-## ✍️ Resources
+## 📚 Resources
 The talk "Android Architecture in the real world" is based on the following resources:
 - **[Book: Real-World Android by Tutorials](https://www.kodeco.com/books/real-world-android-by-tutorials)**
 - **[Book: Android Test-Driven Development by Tutorials](https://www.kodeco.com/books/android-test-driven-development-by-tutorials)**
