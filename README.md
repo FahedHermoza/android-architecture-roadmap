@@ -85,14 +85,14 @@ There are many ways to design the architecture for your application, depending o
     * Features Modules 
         * Package by feature on the exterior, and package layer on the interior
     * Commons Modules
- 
-You can also review the following presentation, which provides more specific details about this example architecture.
-- **[Talk: Android Architecture in the real world](https://medium.com/@fahedhermoza/android-architecture-roadmap-using-guidelines-34fea921f67d)**
 
 <div align="center">
         <img width="100%" src="screenshots/AndroidArquitectureRoadmap.jpg" alt="About screen" title="About screen"</img>
         <img height="0" width="16px">
 </div>
+
+You can also review the following presentation, which provides more specific details about this example architecture.
+- **[Talk: Android Architecture in the real world](https://medium.com/@fahedhermoza/android-architecture-roadmap-using-guidelines-34fea921f67d)**
 
 ## 📚 Resources
 The talk "Android Architecture in the real world" is based on the following resources:
