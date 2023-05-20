@@ -5,12 +5,10 @@
         <img height="0" width="5px">
 </div>
 
-Welcome to Android Architecture Roadmap
+Welcome to Android Architecture Roadmap, the main objective of this repository is to help you strengthen your skills in Android architecture and provide you with a solid foundation for your projects. Enjoy exploring and developing your abilities in this exciting field of software development!
 
-The main goal of this roadmap is to help someone who gains knowledge of Android architecture.
-This roadmap was an idea after giving a talk to the GDG Cusco community about Android Architecture 
-in the real world, resources used are shared below:
-- **[Talk: Android Architecture in the real world](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=sharing)**
+Here is a guide that will help you answer the following questions: What is this repository?, Who is this repository written for?, and How to use this repository?
+- **[Guidelines](https://medium.com/@fahedhermoza/android-architecture-roadmap-using-guidelines-34fea921f67d)**
 
 This contains all topics to help you find what you are looking for quickly. I hope I can help you.
 
@@ -87,7 +85,10 @@ There are many ways to design the architecture for your application, depending o
     * Features Modules 
         * Package by feature on the exterior, and package layer on the interior
     * Commons Modules
-    
+ 
+You can also review the following presentation, which provides more specific details about this example architecture.
+- **[Talk: Android Architecture in the real world](https://medium.com/@fahedhermoza/android-architecture-roadmap-using-guidelines-34fea921f67d)**
+
 <div align="center">
         <img width="100%" src="screenshots/AndroidArquitectureRoadmap.jpg" alt="About screen" title="About screen"</img>
         <img height="0" width="16px">
