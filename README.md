@@ -92,7 +92,7 @@ There are many ways to design the architecture for your application, depending o
 </div>
 
 You can also review the following presentation, which provides more specific details about this example architecture.
-- **[Talk: Android Architecture in the real world](https://medium.com/@fahedhermoza/android-architecture-roadmap-using-guidelines-34fea921f67d)**
+- **[Talk: Android Architecture in the real world](https://docs.google.com/presentation/d/1zhMWp0l3Xzxt324TwmSncworTvLwiuTX_Tenj51vTnk/edit?usp=share_link)**
 
 ## 📚 Resources
 The talk "Android Architecture in the real world" is based on the following resources:
