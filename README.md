@@ -79,7 +79,7 @@ This contains all topics to help you find what you are looking for quickly. I ho
         - [Hybrid Package:](https://proandroiddev.com/package-by-type-by-layer-by-feature-vs-package-by-layered-feature-e59921a4dffa) Package by feature on the exterior, and package by layer on the interior.
 
 ## ✍️ Sample
-There are many ways to design the architecture for your application, depending on the problem you are solving. A recommended example for medium or big apps that you could follow is the following:
+There are many ways to design the architecture for your application, depending on the problem you are solving. A recommended example of the book [Real-World Android](https://www.kodeco.com/books/real-world-android-by-tutorials) for medium or big apps that you could follow is the following:
 - 🤖  Modularization + Package Structure
     * App Module   
     * Features Modules 
@@ -107,13 +107,13 @@ Some books and post recommended:
 - **[Post: The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)**
 
 ## 💡 Inspiration
-This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap), [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
+This project is inspired by [Mobile Developer Security Roadmap ](https://github.com/rviannaoliveira/mobile-developer-security-roadmap) and [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap). So thank you for the authors providing the roadmap ideas. Also, you can learn a lot of knowledge from the repositories.
 
 ## 🚦 Wrap Up
 If you have an idea to improve the map, feel free to discuss it in the issues.
 
 ## ⚠️  Disclamer
-This information is focused on semi-senior and senior engineers. Use your own judgement and use with caution.
+Use the content of this repository at your discretion and with caution.
 
 ## Find this project useful? :heart:
 
